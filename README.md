@@ -1,2 +1,2 @@
-# magic_8_ball_flutter
+# magic-8-ball-flutter
  Magic 8 ball application with random answers.
